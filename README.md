@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kush17narwal/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kush17narwal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kush17narwal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kush17narwal/LeetCode/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kush17narwal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
