@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/Kush17narwal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kush17narwal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kush17narwal/LeetCode/tree/master/0169-majority-element) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kush17narwal/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kush17narwal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kush17narwal/LeetCode/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kush17narwal/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
