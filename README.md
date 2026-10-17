@@ -26,6 +26,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Kush17narwal/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kush17narwal/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Kush17narwal/LeetCode/tree/master/0070-climbing-stairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kush17narwal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kush17narwal/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Kush17narwal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kush17narwal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kush17narwal/LeetCode/tree/master/0035-search-insert-position) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kush17narwal/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
